@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ankan Sen! 🚀<br>🎓 B.Tech CSE Student | Haldia Institute of Technology, West Bengal<br>🛡️ Future Cybersecurity Expert | Passionate about securing the digital world<br>💻 Tech Stack & Learning:<br>🔹 C Programming | 🔹 Java with DSA | 🔹 Web Development<br>📚 Always Exploring & Building!
+Hi, I'm Ankan Sen! 🚀<br>🎓 B.Tech CSE Student | Haldia Institute of Technology, West Bengal<br>💻 Tech Stack & Learning:<br>🔹 C Programming | 🔹 Java with DSA | 🔹 Web Development<br>📚 Always Exploring & Building!
 
 
 ## 🌐 Socials:
