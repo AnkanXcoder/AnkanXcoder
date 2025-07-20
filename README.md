@@ -13,23 +13,6 @@ Hi, I’m **Ankan Sen** — a passionate **MERN Full Stack Developer** and  **B.
 - 🧠 **Languages:** Java (with DSA), C   
 - 🔍 **Currently Exploring:** Machine Learning, API Integration
 
----
-
-### 🚀 Current Focus  
-- Developing responsive and real-world MERN stack projects  
-- Mastering Tailwind and Bootstrap for UI/UX  
-- Strengthening DSA in Java  
-- Participating in hackathons and open-source contributions  
-
----
-
-### 📈 Goals  
-- ✅ Build and deploy full-stack applications  
-- ✅ Contribute to open-source projects  
-- ✅ Secure tech internships and crack coding interviews  
-
----
-
 ### 🔗 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankan-sen-2725b9325)  
 - 💻 [GitHub](https://github.com/AnkanXcoder)  
