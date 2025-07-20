@@ -10,7 +10,7 @@ Hi, I’m **Ankan Sen** — a passionate **MERN Full Stack Developer** and  **B.
 - 🛠️ **Backend:** Node.js, Express.js  
 - 🗂️ **Database:** MongoDB  
 - 🌐 **Version Control:** Git, GitHub  
-- 🧠 **Languages:** Java (with DSA), C (basics)  
+- 🧠 **Languages:** Java (with DSA), C   
 - 🔍 **Currently Exploring:** Machine Learning, API Integration
 
 ---
