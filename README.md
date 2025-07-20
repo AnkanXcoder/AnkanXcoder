@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I’m **Ankan Sen** — a passionate **MERN Full Stack Developer** and a first-year **B.Tech CSE student** at *Haldia Institute of Technology*, West Bengal. I'm on a mission to build clean, scalable, and user-friendly web applications using modern web technologies.
+Hi, I’m **Ankan Sen** — a passionate **MERN Full Stack Developer** and  **B.Tech CSE student** at *Haldia Institute of Technology*, West Bengal. I'm on a mission to build clean, scalable, and user-friendly web applications using modern web technologies.
 
 ---
 
