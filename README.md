@@ -20,4 +20,12 @@ Hi, I’m **Ankan Sen** — a passionate **MERN Full Stack Developer** and  **B.
 
 ---
 
+### 🏆 Holopin Badges
+<p align="center">
+  <a href="https://holopin.io/@ankanxcoder">
+    <img src="https://holopin.me/ankanxcoder" alt="@ankanxcoder's Holopin Badges" />
+  </a>
+</p>
+
+
 > "Code like a craftsman, debug like a detective, and learn like a student forever." 🔥
