@@ -8,10 +8,11 @@ I’m a **B.Tech CSE student** at *Haldia Institute of Technology*, West Bengal,
 
 ### 🔧 Tech & ML Stack  
 
-**Programming & Data:** Python, Java, C, Statistics, Linear Algebra  
-**Machine Learning & AI:** Supervised & Unsupervised Learning, Model Training, AI Tools  
+**Programming & Data:** Python, Java, C  
+**Mathematics for ML:** Statistics, Linear Algebra  
+**Machine Learning & AI:** Basic ML concepts, Supervised & Unsupervised Learning, Model Training  
 **AI Tools I Use:** GPT, Gemini, Grok, Copilot, and more  
-**Currently Exploring:** Advanced Machine Learning, Deep Learning, API Integration  
+**Currently Exploring:** Machine Learning and AI more deeply
 
 ---
 
