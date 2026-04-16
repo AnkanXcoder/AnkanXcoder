@@ -11,11 +11,11 @@ I enjoy turning raw data into meaningful insights and building systems that solv
 
 ## 🔧 Tech Stack
 
-**Languages:** Python, Java, C
-**Data & Analysis:** Pandas, NumPy, Data Analysis
-**Mathematics:** Statistics, Linear Algebra
-**Machine Learning:** Supervised & Unsupervised Learning, Model Training
-**Tools:** Git, GitHub, Colab
+* Languages: Python, Java, C
+* Data & Analysis: Pandas, NumPy, Data Analysis
+* Mathematics: Statistics, Linear Algebra
+* Machine Learning: Supervised & Unsupervised Learning, Model Training
+* Tools: Git, GitHub, Colab
 
 ---
 
