@@ -14,7 +14,7 @@ I enjoy turning raw data into meaningful insights and building systems that solv
 * Languages: Python, Java, C
 * Data & Analysis: Pandas, NumPy, Data Analysis
 * Mathematics: Statistics, Linear Algebra
-* Machine Learning: Supervised & Unsupervised Learning, Model Training
+* Machine Learning: Supervised & Unsupervised Learning
 * Tools: Git, GitHub, Colab
 
 ---
@@ -25,7 +25,7 @@ I enjoy turning raw data into meaningful insights and building systems that solv
 
 * Performed data cleaning, feature engineering, and cohort analysis
 * Identified key business insights like customer segmentation and revenue trends
-* Applied Pareto principle to analyze high-value customers
+* Applied Pareto principle to identify high-value customers
 
 👉 [View Project](https://github.com/AnkanXcoder/ecommerce-analysis)
 
@@ -34,8 +34,22 @@ I enjoy turning raw data into meaningful insights and building systems that solv
 ## 🌱 Currently Learning
 
 * Machine Learning (advanced concepts)
-* Real-world data analysis projects
+* Real-world data analysis
 * Building portfolio-level projects
+
+---
+
+## 📊 GitHub Stats
+
+![Ankan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkanXcoder\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanXcoder\&layout=compact\&theme=radical)
+
+---
+
+## 🔥 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkanXcoder\&theme=github-dark)
 
 ---
 
