@@ -125,16 +125,6 @@ https://public.tableau.com/views/Road_Accident_Analysis_Dashboard_17832807907500
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Build End-to-End Data Analytics Projects
-- 🔄 Build Machine Learning Projects
-- 🔄 Learn Deep Learning
-- 🔄 Strengthen SQL & DSA
-- 🔄 Secure a Data Analytics / Data Science Internship
-
----
-
 # 🌐 Connect With Me
 
 <p>
