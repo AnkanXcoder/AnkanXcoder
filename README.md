@@ -115,28 +115,6 @@ https://public.tableau.com/views/Road_Accident_Analysis_Dashboard_17832807907500
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnkanXcoder&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanXcoder&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnkanXcoder&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
