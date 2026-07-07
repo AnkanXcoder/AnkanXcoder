@@ -1,23 +1,48 @@
-# 👋 Hi, I'm Ankan Sen
+<h1 align="center">Hi 👋, I'm Ankan Sen</h1>
 
-🎓 B.Tech Computer Science & Engineering Student at **Haldia Institute of Technology**
+<h3 align="center">
+Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
+</h3>
 
-🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Data Analytics
+<p align="center">
+🎓 B.Tech Computer Science & Engineering Student at <b>Haldia Institute of Technology</b>
+</p>
 
-I enjoy transforming raw data into meaningful insights and building data-driven solutions that solve real-world problems. I'm currently focused on Data Analytics, Machine Learning, and Artificial Intelligence while building practical portfolio projects.
+<p align="center">
+I enjoy transforming raw data into meaningful insights and building data-driven solutions using <b>Python, SQL, Tableau, and Machine Learning.</b>
+</p>
 
-> *"Turning data into decisions, one project at a time."* 📊
+<p align="center">
+<i>"Turning data into decisions, one project at a time."</i> 📊
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 🚀 About Me
 
-### 👨‍💻 Programming Languages
+🎓 B.Tech CSE Student at **Haldia Institute of Technology**
+
+📊 Passionate about **Data Analytics, Machine Learning, and Artificial Intelligence**
+
+💡 Interested in solving real-world problems through data.
+
+🌱 Currently learning **Machine Learning, Feature Engineering, and Deep Learning**
+
+🎯 Goal: Become a Data Scientist and build impactful AI solutions.
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
 - Python
+- SQL
 - Java
 - C
 
-### 📊 Data Analytics
+## 📊 Data Analytics
+
 - Pandas
 - NumPy
 - Matplotlib
@@ -25,17 +50,21 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 - Statistics
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
+- Business Analytics
 
-### 🤖 Machine Learning
+## 🤖 Machine Learning
+
+- Scikit-learn
 - Supervised Learning
 - Unsupervised Learning
-- Scikit-learn (Learning)
 
-### 📈 Data Visualization
+## 📈 Data Visualization
+
 - Tableau
 - Power BI (Learning)
 
-### 🛠️ Tools
+## 🛠️ Tools
+
 - Git
 - GitHub
 - Google Colab
@@ -44,77 +73,122 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 ## 🚗 Indian Road Accident Analysis
 
-An end-to-end Data Analytics project built using **20,000 road accident records**.
+An end-to-end **Data Analytics Project** built using **20,000 road accident records**.
 
-### Project Highlights
+### 📌 Project Highlights
 
-- 📌 Data Cleaning & Preprocessing
-- 📊 Exploratory Data Analysis (EDA)
-- 📈 Business KPI Analysis
-- 📉 Advanced Analytics
-- 📋 Executive Business Report
-- 📊 Interactive Tableau Dashboard
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Business KPI Analysis
+- Advanced Analytics
+- Professional Data Visualization
+- Interactive Tableau Dashboard
+- Executive Business Report
 
-### Technologies Used
+### 🛠️ Technologies Used
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • Tableau • Git • GitHub
 
-### Links
+### 🔗 Project Links
 
-🔗 **GitHub Repository**
+**📂 GitHub Repository**
 
 https://github.com/AnkanXcoder/Indian_Road_Accident_Analysis
 
-📊 **Interactive Tableau Dashboard**
+**📊 Interactive Tableau Dashboard**
 
 https://public.tableau.com/views/Road_Accident_Analysis_Dashboard_17832807907500/Dashboard1
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Machine Learning
+- Deep Learning
 - Feature Engineering
 - Model Evaluation
-- SQL for Data Analytics
 - Data Structures & Algorithms
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkanXcoder&show_icons=true&theme=radical)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanXcoder&layout=compact&theme=radical)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnkanXcoder&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanXcoder&layout=compact&theme=tokyonight"/>
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkanXcoder&theme=github-dark)
+</p>
 
 ---
 
-## 🌐 Connect with Me
+# 🔥 GitHub Streak
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankan-sen-2725b9325)
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnkanXcoder)
+<img src="https://streak-stats.demolab.com?user=AnkanXcoder&theme=tokyonight"/>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ankansen10906)
-
-📧 **Email:** ankansen703@gmail.com
+</p>
 
 ---
 
-## 🏆 Holopin Badges
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkanXcoder&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build End-to-End Data Analytics Projects
+- 🔄 Build Machine Learning Projects
+- 🔄 Learn Deep Learning
+- 🔄 Strengthen SQL & DSA
+- 🔄 Secure a Data Analytics / Data Science Internship
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/ankan-sen-2725b9325">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AnkanXcoder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/ankansen10906">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+📧 **Email:** **ankansen703@gmail.com**
+
+---
+
+# 🏆 Holopin Badges
 
 [![Holopin](https://holopin.me/ankanxcoder)](https://holopin.io/@ankanxcoder)
 
 ---
 
-⭐ **Thanks for visiting my profile! If you like my projects, feel free to star the repositories and connect with me.**
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you find my projects interesting, consider giving them a ⭐ and feel free to connect with me.
+</p>
